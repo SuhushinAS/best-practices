@@ -1,4 +1,4 @@
-# [Code Style](../README.md)
+# [Best Practices](../README.md)
 
 ## HTML
 
