@@ -8,3 +8,4 @@
 - [JS](js/README.md)
 - [Задачи](tasks/README.md)
 - [Планерки](meetings/README.md)
+- [Шаблоны проектирования](design-patterns/README.md)
